@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/First-Todo-List/static/css/main.31004ba3.css",
+    "main.js": "/First-Todo-List/static/js/main.d6e6f8d3.js",
+    "static/media/paisaje.jpg": "/First-Todo-List/static/media/paisaje.70286ee7ddb1317d0969.jpg",
+    "index.html": "/First-Todo-List/index.html",
+    "static/media/delete.svg": "/First-Todo-List/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/First-Todo-List/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.31004ba3.css.map": "/First-Todo-List/static/css/main.31004ba3.css.map",
+    "main.d6e6f8d3.js.map": "/First-Todo-List/static/js/main.d6e6f8d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31004ba3.css",
+    "static/js/main.d6e6f8d3.js"
+  ]
+}
